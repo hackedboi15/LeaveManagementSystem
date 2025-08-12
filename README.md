@@ -198,7 +198,7 @@ Response:
    - Role-based access control
    - Database connection pooling
 
-## 🚀 Scaling Strategy (50 → 500 employees)
+##  Scaling Strategy (50 → 500 employees)
 
 ### Current Architecture Limitations
 - Single database instance
@@ -769,3 +769,4 @@ For any issues or questions, please create an issue in the repository or contact
 ---
 
 **Note**: This is an MVP version. For production use, additional security, monitoring, and compliance features should be implemented.
+
